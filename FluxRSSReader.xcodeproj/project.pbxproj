@@ -15,6 +15,7 @@
 		B4A2EDCB1C2B5316002D1BBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4A2EDC91C2B5316002D1BBD /* LaunchScreen.storyboard */; };
 		B4A2EDD61C2B5316002D1BBD /* FluxRSSReaderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A2EDD51C2B5316002D1BBD /* FluxRSSReaderTests.swift */; };
 		B4A2EDE11C2B5317002D1BBD /* FluxRSSReaderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4A2EDE01C2B5317002D1BBD /* FluxRSSReaderUITests.swift */; };
+		B4A2EDEF1C2B5700002D1BBD /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = B4A2EDEE1C2B5700002D1BBD /* README.md */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B4A2EDDC1C2B5317002D1BBD /* FluxRSSReaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FluxRSSReaderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4A2EDE01C2B5317002D1BBD /* FluxRSSReaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FluxRSSReaderUITests.swift; sourceTree = "<group>"; };
 		B4A2EDE21C2B5317002D1BBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4A2EDEE1C2B5700002D1BBD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		B4A2EDB21C2B5316002D1BBD = {
 			isa = PBXGroup;
 			children = (
+				B4A2EDEE1C2B5700002D1BBD /* README.md */,
 				B4A2EDBD1C2B5316002D1BBD /* FluxRSSReader */,
 				B4A2EDD41C2B5316002D1BBD /* FluxRSSReaderTests */,
 				B4A2EDDF1C2B5317002D1BBD /* FluxRSSReaderUITests */,
@@ -260,6 +263,7 @@
 			files = (
 				B4A2EDC31C2B5316002D1BBD /* DetailViewController.swift in Sources */,
 				B4A2EDC11C2B5316002D1BBD /* MasterViewController.swift in Sources */,
+				B4A2EDEF1C2B5700002D1BBD /* README.md in Sources */,
 				B4A2EDBF1C2B5316002D1BBD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -485,6 +489,7 @@
 				B4A2EDE71C2B5317002D1BBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4A2EDE81C2B5317002D1BBD /* Build configuration list for PBXNativeTarget "FluxRSSReaderTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +498,7 @@
 				B4A2EDEA1C2B5317002D1BBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4A2EDEB1C2B5317002D1BBD /* Build configuration list for PBXNativeTarget "FluxRSSReaderUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +507,7 @@
 				B4A2EDED1C2B5317002D1BBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
