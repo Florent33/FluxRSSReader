@@ -51,6 +51,7 @@
 		B4A2EDE01C2B5317002D1BBD /* FluxRSSReaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FluxRSSReaderUITests.swift; sourceTree = "<group>"; };
 		B4A2EDE21C2B5317002D1BBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B4A2EDEE1C2B5700002D1BBD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B4A8735D1C2F31E5007B5124 /* APPMasterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APPMasterViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +103,7 @@
 		B4A2EDBD1C2B5316002D1BBD /* FluxRSSReader */ = {
 			isa = PBXGroup;
 			children = (
+				B4A8735D1C2F31E5007B5124 /* APPMasterViewController.h */,
 				B4A2EDBE1C2B5316002D1BBD /* AppDelegate.swift */,
 				B4A2EDC01C2B5316002D1BBD /* MasterViewController.swift */,
 				B4A2EDC21C2B5316002D1BBD /* DetailViewController.swift */,

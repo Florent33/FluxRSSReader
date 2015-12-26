@@ -2,7 +2,7 @@
 //  MasterViewController.swift
 //  FluxRSSReader
 //
-//  Created by Administrateur on 23/12/2015.
+//  Created by Florent FERRAND on 23/12/2015.
 //  Copyright © 2015 com.epsi.projeti5.fluxrssreader. All rights reserved.
 //
 
